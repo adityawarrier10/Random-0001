@@ -1,0 +1,15 @@
+<html>
+<body>
+
+    First Name&nbsp&nbsp<input type="text" name="firstname" placeholder="Aage wala naam"><br><br>
+
+    Last Name&nbsp&nbsp<input type="text" name="lastname" placeholder="Piche wala naam"><br><br>
+
+    Email&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="email" name="email" placeholder="Email address"><br><br>
+
+    Password&nbsp&nbsp&nbsp&nbsp<input type="password" name="password" placeholder="Password"><br><br>
+
+&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type="submit" value="Submit">
+
+</body>
+</html>
