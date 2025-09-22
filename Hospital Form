@@ -32,9 +32,12 @@
     
    Ug Degree duration:<br> <input type="range" min="0" max="4" value="7"/>
     <span>Year's</span><br><br>
+    
+    Hey click the link:<br><a href="https://www.youtube.com/watch?v=6Hee7YVJs-0">Not a Rickroll🙂</a><br><br>
 
 <input type="submit" value="Submit">
 
 </form>
+
 </body>
 </html>
